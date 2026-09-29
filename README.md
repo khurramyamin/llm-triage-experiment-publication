@@ -1,7 +1,6 @@
 # Triage as a Decision Problem: Beliefs vs. Utilities in LLM Emergency Triage
 
-Code and data for the *Nature Medicine* commentary re-analysing the ChatGPT Health
-emergency-triage stress test. We argue that emergency triage is a **decision
+Code and data for https://arxiv.org/pdf/2608.01361. We argue that emergency triage is a **decision
 problem**, not merely a prediction problem, and separate two things that a raw
 accuracy score conflates:
 
